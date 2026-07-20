@@ -1,4 +1,4 @@
 interface:
-  display_name: "PPT Craft｜双语 PPT 制作"
-  short_description: "Create clear Chinese, English, or bilingual PowerPoint decks."
-  default_prompt: "Use $ppt-craft to create a clear Chinese, English, or bilingual PowerPoint deck.｜使用 $ppt-craft 创建清晰的中文、英文或中英双语演示文稿。"
+  display_name: "PPT Craft｜中英双语技能"
+  short_description: "Create Chinese or English decks in the requested language."
+  default_prompt: "Use $ppt-craft to create a presentation in the language I request.｜使用 $ppt-craft 按我指定的语言制作演示文稿。"

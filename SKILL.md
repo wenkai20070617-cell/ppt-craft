@@ -1,9 +1,9 @@
 ---
 name: ppt-craft
-description: Create, revise, or audit audience-ready PowerPoint presentations (.pptx) in Chinese, English, or bilingual form through a gated workflow covering outline, evidence, images, layout, production, and rendered quality assurance. Use when Codex must turn a brief, source material, or data into a professional deck, improve an existing presentation, or evaluate its content and design. 支持中文、英文及中英双语演示文稿的创建、修改与审核。
+description: Create, revise, or audit audience-ready PowerPoint presentations (.pptx) through a gated workflow covering outline, evidence, images, layout, production, and rendered quality assurance. The skill instructions are available in Chinese and English. Produce slides in the user's requested language, and use bilingual slide content only when explicitly requested. Use when Codex must turn a brief, source material, or data into a professional deck, improve an existing presentation, or evaluate its content and design. 本技能提供中英文说明，并按用户指定语言制作演示文稿；仅在用户明确要求时制作双语页面。
 ---
 
-# PPT Craft｜PPT 制作
+# PPT Craft｜PPT 制作（中英双语技能说明）
 
 ## Confirm the task｜确认任务
 
@@ -21,10 +21,10 @@ Read [references/presentation-principles.md](references/presentation-principles.
 
 ## Language policy｜语言策略
 
-- 中文请求默认用中文；English requests default to English.
-- 用户要求双语时，在每页建立明确的主次语言层级，保持两种语言语义对应。For bilingual decks, create a clear primary/secondary language hierarchy and preserve semantic equivalence.
-- 标题优先短而完整；译文根据版面压缩表达，不删除关键限定。Keep titles concise and complete; compress translations for fit without removing material qualifiers.
-- 专有名词、数字、来源和行动要求在两种语言中保持一致。Keep terminology, numbers, citations, and requested actions consistent across languages.
+- 本 skill 的说明同时提供中文和英文；这不表示成品 PPT 默认使用两种语言。This skill is documented in Chinese and English; that does not make the output deck bilingual by default.
+- 按用户明确指定的语言制作页面与演讲者备注。未指定时，采用用户请求和主要资料所使用的语言。Produce slides and speaker notes in the language explicitly requested. If none is specified, use the language of the request and primary source material.
+- 不自动添加译文、双语副标题或第二语言正文。仅在用户明确要求双语演示时，才在每页建立主次语言层级并保持语义对应。Do not add translations, bilingual subtitles, or secondary-language body copy by default. Create bilingual slides only when the user explicitly requests them, then establish a clear primary/secondary hierarchy and preserve semantic equivalence.
+- 标题保持简短完整；专有名词、数字、来源和行动要求在选定语言中保持一致。Keep titles concise and complete; preserve terminology, numbers, citations, and requested actions in the selected language.
 
 ## Gated workflow｜固定制作顺序
 
