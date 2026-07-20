@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Craft"
+  short_description: "Create evidence-based, clear, accessible PowerPoint decks."
+  default_prompt: "Use $ppt-craft to create a clear, audience-ready PowerPoint deck."
